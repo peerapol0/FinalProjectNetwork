@@ -305,12 +305,4 @@ def sxan_packet_encode(
 
 ---
 
-<div align="center">
 
-*ฉบับขยายความสมบูรณ์ · 2026*
-
-![License](https://img.shields.io/badge/ใบอนุญาต-Bio--Ethics%20Compliant-lightgrey?style=flat-square)
-![HITL](https://img.shields.io/badge/HITL-ควบคุมโดยมนุษย์%20100%25-critical?style=flat-square)
-![Neural Rights](https://img.shields.io/badge/สิทธิประสาท-ได้รับการคุ้มครอง-blue?style=flat-square)
-
-</div>
